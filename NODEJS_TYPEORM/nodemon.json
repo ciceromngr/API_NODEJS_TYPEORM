@@ -1,0 +1,7 @@
+{
+    "wacth": ["src"],
+    "ext": "ts",
+    "exc": {
+        "ts": "ts-node src/index.ts"
+    }
+}
